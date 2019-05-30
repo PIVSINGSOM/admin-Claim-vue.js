@@ -1,5 +1,5 @@
-# admin-Claim-vue.js
-Test admin system  with vue.js 
+# admin-Claim-vue.js  
+Test admin system  with vue.js   // test only
 
 Bootstarp+css+vue.js+php+web service (axios)
 
